@@ -1,0 +1,14 @@
+{
+  "name": "threejs-cube-factory",
+  "version": "1.0.0",
+  "description": "ThreeJS demo using a factory pattern",
+  "scripts": {
+    "prebuild": "mkdir -p dist",
+    "build": "browserify src/app.js -o dist/bundle.js",
+    "prestart": "npm run build",
+    "start": "open index.html",
+    "clean": "rm -rf dist"
+  },
+  "author": "Mitch Allen",
+  "license": "MIT"
+}
