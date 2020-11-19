@@ -10,5 +10,9 @@
     "clean": "rm -rf dist"
   },
   "author": "Mitch Allen",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitchallen/threejs-cube-factory.git"
+}
 }

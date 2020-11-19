@@ -1,4 +1,4 @@
-# threejs-cube-factor
+# threejs-cube-factory
 ThreeJS demo using a factory pattern
 --
 
