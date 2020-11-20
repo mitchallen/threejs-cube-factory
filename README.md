@@ -4,6 +4,10 @@ ThreeJS demo using a factory pattern
 
 * * *
 
+For an ES6 version of this code, see:
+
+* https://github.com/mitchallen/threejs-cube-es6
+
 # Usage
 
 Clone the project and install browserify
